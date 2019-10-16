@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/kimsoyoung/kullow/BuildingRecognition/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/kimsoyoung/kullow/BuildingRecognition/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "2,2",
+                        "startOffsets": "53,108",
+                        "endColumns": "54,65",
+                        "endOffsets": "105,171"
+                    },
+                    "to": {
+                        "startLines": "7,8",
+                        "startColumns": "4,4",
+                        "startOffsets": "438,495",
+                        "endColumns": "56,67",
+                        "endOffsets": "490,558"
+                    }
+                },
+                {
+                    "source": "/Users/kimsoyoung/.gradle/caches/transforms-2/files-2.1/3d5e602a9c5f2abaad7ea4361fc22168/res/values/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "161,208,259,360,461",
+                        "endColumns": "46,50,100,100,62",
+                        "endOffsets": "207,258,359,460,523"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,106,161,266,371",
+                        "endColumns": "50,54,104,104,66",
+                        "endOffsets": "101,156,261,366,433"
+                    }
+                },
+                {
+                    "source": "/Users/kimsoyoung/kullow/BuildingRecognition/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "5,2,7",
+                        "startColumns": "0,0,0",
+                        "startOffsets": "190,53,288",
+                        "endLines": "6,4,10",
+                        "endColumns": "8,8,8",
+                        "endOffsets": "286,188,513"
+                    },
+                    "to": {
+                        "startLines": "9,11,14",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "563,663,801",
+                        "endLines": "10,13,17",
+                        "endColumns": "8,8,8",
+                        "endOffsets": "658,796,1023"
+                    }
+                }
+            ]
+        }
+    ]
+}

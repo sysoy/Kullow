@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/Users/kimsoyoung/kullow/BuildingRecognition/build/intermediates/res/merged/debug/mipmap-xxhdpi_app_icon.png.flat",
+        "source": "/Users/kimsoyoung/kullow/BuildingRecognition/src/main/res/mipmap-xxhdpi/app_icon.png"
+    },
+    {
+        "merged": "/Users/kimsoyoung/kullow/BuildingRecognition/build/intermediates/res/merged/debug/mipmap-xxhdpi_app_icon_round.png.flat",
+        "source": "/Users/kimsoyoung/kullow/BuildingRecognition/src/main/res/mipmap-xxhdpi/app_icon_round.png"
+    },
+    {
+        "merged": "/Users/kimsoyoung/kullow/BuildingRecognition/build/intermediates/res/merged/debug/mipmap-mdpi_app_icon_round.png.flat",
+        "source": "/Users/kimsoyoung/kullow/BuildingRecognition/src/main/res/mipmap-mdpi/app_icon_round.png"
+    },
+    {
+        "merged": "/Users/kimsoyoung/kullow/BuildingRecognition/build/intermediates/res/merged/debug/mipmap-xxxhdpi_app_icon.png.flat",
+        "source": "/Users/kimsoyoung/kullow/BuildingRecognition/src/main/res/mipmap-xxxhdpi/app_icon.png"
+    },
+    {
+        "merged": "/Users/kimsoyoung/kullow/BuildingRecognition/build/intermediates/res/merged/debug/mipmap-mdpi_app_icon.png.flat",
+        "source": "/Users/kimsoyoung/kullow/BuildingRecognition/src/main/res/mipmap-mdpi/app_icon.png"
+    },
+    {
+        "merged": "/Users/kimsoyoung/kullow/BuildingRecognition/build/intermediates/res/merged/debug/layout___arcore_education.xml.flat",
+        "source": "/Users/kimsoyoung/.gradle/caches/transforms-2/files-2.1/3d5e602a9c5f2abaad7ea4361fc22168/res/layout/__arcore_education.xml"
+    },
+    {
+        "merged": "/Users/kimsoyoung/kullow/BuildingRecognition/build/intermediates/res/merged/debug/mipmap-hdpi_app_icon_round.png.flat",
+        "source": "/Users/kimsoyoung/kullow/BuildingRecognition/src/main/res/mipmap-hdpi/app_icon_round.png"
+    },
+    {
+        "merged": "/Users/kimsoyoung/kullow/BuildingRecognition/build/intermediates/res/merged/debug/mipmap-ldpi_app_icon.png.flat",
+        "source": "/Users/kimsoyoung/kullow/BuildingRecognition/src/main/res/mipmap-ldpi/app_icon.png"
+    },
+    {
+        "merged": "/Users/kimsoyoung/kullow/BuildingRecognition/build/intermediates/res/merged/debug/mipmap-ldpi_app_icon_round.png.flat",
+        "source": "/Users/kimsoyoung/kullow/BuildingRecognition/src/main/res/mipmap-ldpi/app_icon_round.png"
+    },
+    {
+        "merged": "/Users/kimsoyoung/kullow/BuildingRecognition/build/intermediates/res/merged/debug/mipmap-hdpi_app_icon.png.flat",
+        "source": "/Users/kimsoyoung/kullow/BuildingRecognition/src/main/res/mipmap-hdpi/app_icon.png"
+    },
+    {
+        "merged": "/Users/kimsoyoung/kullow/BuildingRecognition/build/intermediates/res/merged/debug/mipmap-xhdpi_app_icon_round.png.flat",
+        "source": "/Users/kimsoyoung/kullow/BuildingRecognition/src/main/res/mipmap-xhdpi/app_icon_round.png"
+    },
+    {
+        "merged": "/Users/kimsoyoung/kullow/BuildingRecognition/build/intermediates/res/merged/debug/mipmap-xhdpi_app_icon.png.flat",
+        "source": "/Users/kimsoyoung/kullow/BuildingRecognition/src/main/res/mipmap-xhdpi/app_icon.png"
+    },
+    {
+        "merged": "/Users/kimsoyoung/kullow/BuildingRecognition/build/intermediates/res/merged/debug/raw_keep.xml.flat",
+        "source": "/Users/kimsoyoung/.gradle/caches/transforms-2/files-2.1/3d5e602a9c5f2abaad7ea4361fc22168/res/raw/keep.xml"
+    },
+    {
+        "merged": "/Users/kimsoyoung/kullow/BuildingRecognition/build/intermediates/res/merged/debug/mipmap-xxxhdpi_app_icon_round.png.flat",
+        "source": "/Users/kimsoyoung/kullow/BuildingRecognition/src/main/res/mipmap-xxxhdpi/app_icon_round.png"
+    }
+]

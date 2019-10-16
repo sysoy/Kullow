@@ -1,0 +1,157 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/kimsoyoung/kullow/BuildingRecognition/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/kimsoyoung/kullow/BuildingRecognition/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/kimsoyoung/kullow/BuildingRecognition/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/kimsoyoung/kullow/BuildingRecognition/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/kimsoyoung/kullow/BuildingRecognition/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/kimsoyoung/kullow/BuildingRecognition/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/kimsoyoung/kullow/BuildingRecognition/src/main/AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from /Users/kimsoyoung/kullow/BuildingRecognition/src/main/AndroidManifest.xml:2:70-106
+		INJECTED from /Users/kimsoyoung/kullow/BuildingRecognition/src/main/AndroidManifest.xml
+		INJECTED from /Users/kimsoyoung/kullow/BuildingRecognition/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/kimsoyoung/kullow/BuildingRecognition/src/main/AndroidManifest.xml
+		ADDED from /Users/kimsoyoung/kullow/BuildingRecognition/src/main/AndroidManifest.xml:2:1-31:12
+		INJECTED from /Users/kimsoyoung/kullow/BuildingRecognition/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/kimsoyoung/kullow/BuildingRecognition/src/main/AndroidManifest.xml:2:107-153
+	android:versionCode
+		INJECTED from /Users/kimsoyoung/kullow/BuildingRecognition/src/main/AndroidManifest.xml
+		ADDED from /Users/kimsoyoung/kullow/BuildingRecognition/src/main/AndroidManifest.xml:2:1-31:12
+		INJECTED from /Users/kimsoyoung/kullow/BuildingRecognition/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/kimsoyoung/kullow/BuildingRecognition/src/main/AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from /Users/kimsoyoung/kullow/BuildingRecognition/src/main/AndroidManifest.xml:2:154-194
+supports-screens
+ADDED from /Users/kimsoyoung/kullow/BuildingRecognition/src/main/AndroidManifest.xml:3:3-163
+	android:largeScreens
+		ADDED from /Users/kimsoyoung/kullow/BuildingRecognition/src/main/AndroidManifest.xml:3:78-105
+	android:smallScreens
+		ADDED from /Users/kimsoyoung/kullow/BuildingRecognition/src/main/AndroidManifest.xml:3:21-48
+	android:normalScreens
+		ADDED from /Users/kimsoyoung/kullow/BuildingRecognition/src/main/AndroidManifest.xml:3:49-77
+	android:xlargeScreens
+		ADDED from /Users/kimsoyoung/kullow/BuildingRecognition/src/main/AndroidManifest.xml:3:106-134
+	android:anyDensity
+		ADDED from /Users/kimsoyoung/kullow/BuildingRecognition/src/main/AndroidManifest.xml:3:135-160
+application
+ADDED from /Users/kimsoyoung/kullow/BuildingRecognition/src/main/AndroidManifest.xml:4:3-17:17
+	android:label
+		ADDED from /Users/kimsoyoung/kullow/BuildingRecognition/src/main/AndroidManifest.xml:4:16-48
+activity#yakgwa.BuildingRecognition.UnityPlayerActivity
+ADDED from /Users/kimsoyoung/kullow/BuildingRecognition/src/main/AndroidManifest.xml:6:5-12:16
+	android:screenOrientation
+		ADDED from /Users/kimsoyoung/kullow/BuildingRecognition/src/main/AndroidManifest.xml:6:48-84
+	android:label
+		ADDED from /Users/kimsoyoung/kullow/BuildingRecognition/src/main/AndroidManifest.xml:6:15-47
+	android:launchMode
+		ADDED from /Users/kimsoyoung/kullow/BuildingRecognition/src/main/AndroidManifest.xml:6:85-116
+	android:hardwareAccelerated
+		ADDED from /Users/kimsoyoung/kullow/BuildingRecognition/src/main/AndroidManifest.xml:6:299-334
+	android:configChanges
+		ADDED from /Users/kimsoyoung/kullow/BuildingRecognition/src/main/AndroidManifest.xml:6:117-298
+	android:name
+		ADDED from /Users/kimsoyoung/kullow/BuildingRecognition/src/main/AndroidManifest.xml:6:335-396
+meta-data#unityplayer.UnityActivity
+ADDED from /Users/kimsoyoung/kullow/BuildingRecognition/src/main/AndroidManifest.xml:11:7-82
+	android:value
+		ADDED from /Users/kimsoyoung/kullow/BuildingRecognition/src/main/AndroidManifest.xml:11:59-79
+	android:name
+		ADDED from /Users/kimsoyoung/kullow/BuildingRecognition/src/main/AndroidManifest.xml:11:18-58
+meta-data#unity.build-id
+ADDED from /Users/kimsoyoung/kullow/BuildingRecognition/src/main/AndroidManifest.xml:13:5-101
+	android:value
+		ADDED from /Users/kimsoyoung/kullow/BuildingRecognition/src/main/AndroidManifest.xml:13:46-98
+	android:name
+		ADDED from /Users/kimsoyoung/kullow/BuildingRecognition/src/main/AndroidManifest.xml:13:16-45
+meta-data#unity.splash-mode
+ADDED from /Users/kimsoyoung/kullow/BuildingRecognition/src/main/AndroidManifest.xml:14:5-69
+	android:value
+		ADDED from /Users/kimsoyoung/kullow/BuildingRecognition/src/main/AndroidManifest.xml:14:49-66
+	android:name
+		ADDED from /Users/kimsoyoung/kullow/BuildingRecognition/src/main/AndroidManifest.xml:14:16-48
+meta-data#unity.splash-enable
+ADDED from /Users/kimsoyoung/kullow/BuildingRecognition/src/main/AndroidManifest.xml:15:5-74
+	android:value
+		ADDED from /Users/kimsoyoung/kullow/BuildingRecognition/src/main/AndroidManifest.xml:15:51-71
+	android:name
+		ADDED from /Users/kimsoyoung/kullow/BuildingRecognition/src/main/AndroidManifest.xml:15:16-50
+meta-data#com.google.ar.core
+ADDED from /Users/kimsoyoung/kullow/BuildingRecognition/src/main/AndroidManifest.xml:16:5-77
+	android:value
+		ADDED from /Users/kimsoyoung/kullow/BuildingRecognition/src/main/AndroidManifest.xml:16:50-74
+	android:name
+		ADDED from /Users/kimsoyoung/kullow/BuildingRecognition/src/main/AndroidManifest.xml:16:16-49
+uses-feature#0x00020000
+ADDED from /Users/kimsoyoung/kullow/BuildingRecognition/src/main/AndroidManifest.xml:18:3-52
+	android:glEsVersion
+		ADDED from /Users/kimsoyoung/kullow/BuildingRecognition/src/main/AndroidManifest.xml:18:17-49
+uses-permission#android.permission.INTERNET
+ADDED from /Users/kimsoyoung/kullow/BuildingRecognition/src/main/AndroidManifest.xml:19:3-65
+	android:name
+		ADDED from /Users/kimsoyoung/kullow/BuildingRecognition/src/main/AndroidManifest.xml:19:20-62
+uses-permission#android.permission.CAMERA
+ADDED from /Users/kimsoyoung/kullow/BuildingRecognition/src/main/AndroidManifest.xml:20:3-63
+	android:name
+		ADDED from /Users/kimsoyoung/kullow/BuildingRecognition/src/main/AndroidManifest.xml:20:20-60
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/kimsoyoung/kullow/BuildingRecognition/src/main/AndroidManifest.xml:22:3-77
+	android:name
+		ADDED from /Users/kimsoyoung/kullow/BuildingRecognition/src/main/AndroidManifest.xml:22:20-74
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/kimsoyoung/kullow/BuildingRecognition/src/main/AndroidManifest.xml:23:3-79
+	android:name
+		ADDED from /Users/kimsoyoung/kullow/BuildingRecognition/src/main/AndroidManifest.xml:23:20-76
+uses-feature#android.hardware.camera
+ADDED from /Users/kimsoyoung/kullow/BuildingRecognition/src/main/AndroidManifest.xml:25:3-83
+	android:required
+		ADDED from /Users/kimsoyoung/kullow/BuildingRecognition/src/main/AndroidManifest.xml:25:56-80
+	android:name
+		ADDED from /Users/kimsoyoung/kullow/BuildingRecognition/src/main/AndroidManifest.xml:25:17-55
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/kimsoyoung/kullow/BuildingRecognition/src/main/AndroidManifest.xml:26:3-93
+	android:required
+		ADDED from /Users/kimsoyoung/kullow/BuildingRecognition/src/main/AndroidManifest.xml:26:66-90
+	android:name
+		ADDED from /Users/kimsoyoung/kullow/BuildingRecognition/src/main/AndroidManifest.xml:26:17-65
+uses-feature#android.hardware.camera.front
+ADDED from /Users/kimsoyoung/kullow/BuildingRecognition/src/main/AndroidManifest.xml:27:3-89
+	android:required
+		ADDED from /Users/kimsoyoung/kullow/BuildingRecognition/src/main/AndroidManifest.xml:27:62-86
+	android:name
+		ADDED from /Users/kimsoyoung/kullow/BuildingRecognition/src/main/AndroidManifest.xml:27:17-61
+uses-feature#android.hardware.touchscreen
+ADDED from /Users/kimsoyoung/kullow/BuildingRecognition/src/main/AndroidManifest.xml:28:3-88
+	android:required
+		ADDED from /Users/kimsoyoung/kullow/BuildingRecognition/src/main/AndroidManifest.xml:28:61-85
+	android:name
+		ADDED from /Users/kimsoyoung/kullow/BuildingRecognition/src/main/AndroidManifest.xml:28:17-60
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from /Users/kimsoyoung/kullow/BuildingRecognition/src/main/AndroidManifest.xml:29:3-99
+	android:required
+		ADDED from /Users/kimsoyoung/kullow/BuildingRecognition/src/main/AndroidManifest.xml:29:72-96
+	android:name
+		ADDED from /Users/kimsoyoung/kullow/BuildingRecognition/src/main/AndroidManifest.xml:29:17-71
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from /Users/kimsoyoung/kullow/BuildingRecognition/src/main/AndroidManifest.xml:30:3-108
+	android:required
+		ADDED from /Users/kimsoyoung/kullow/BuildingRecognition/src/main/AndroidManifest.xml:30:81-105
+	android:name
+		ADDED from /Users/kimsoyoung/kullow/BuildingRecognition/src/main/AndroidManifest.xml:30:17-80
+uses-sdk
+INJECTED from /Users/kimsoyoung/kullow/BuildingRecognition/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/kimsoyoung/kullow/BuildingRecognition/src/main/AndroidManifest.xml
+INJECTED from /Users/kimsoyoung/kullow/BuildingRecognition/src/main/AndroidManifest.xml
+INJECTED from /Users/kimsoyoung/kullow/BuildingRecognition/src/main/AndroidManifest.xml
+INJECTED from /Users/kimsoyoung/kullow/BuildingRecognition/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/kimsoyoung/kullow/BuildingRecognition/src/main/AndroidManifest.xml
+		ADDED from /Users/kimsoyoung/kullow/BuildingRecognition/src/main/AndroidManifest.xml
+		INJECTED from /Users/kimsoyoung/kullow/BuildingRecognition/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/kimsoyoung/kullow/BuildingRecognition/src/main/AndroidManifest.xml
+		ADDED from /Users/kimsoyoung/kullow/BuildingRecognition/src/main/AndroidManifest.xml
+		INJECTED from /Users/kimsoyoung/kullow/BuildingRecognition/src/main/AndroidManifest.xml
